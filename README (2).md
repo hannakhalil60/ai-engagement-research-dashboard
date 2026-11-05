@@ -1,7 +1,7 @@
 # AI Engagement & Measurement Reliability — Interactive Research Dashboard
 
-**[Open the live interactive dashboard](https://YOUR-USERNAME.github.io/ai-engagement-research-dashboard/)**  
-*Replace `YOUR-USERNAME` after publishing with GitHub Pages.*
+**[Open the live interactive dashboard](https://hannakhalil60.github.io/ai-engagement-research-dashboard/)**  
+
 
 ## Overview
 
