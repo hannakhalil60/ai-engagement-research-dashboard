@@ -1,4 +1,4 @@
-# AI Engagement & Measurement Reliability — Interactive Research Dashboard
+# AI Engagement & Measurement Reliability: Interactive Research Dashboard
 
 **[Open the live interactive dashboard](https://hannakhalil60.github.io/ai-engagement-research-dashboard/)**  
 
